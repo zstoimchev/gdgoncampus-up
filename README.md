@@ -126,7 +126,7 @@ npm run dev
    - Team member profiles
    - Social media links
    - Join team CTA
-4. Projects Page (`/projects`)
+4. **Projects Page (`/projects`)**
    - Showcase community projects
    - GitHub integration
    - Project filters and search
